@@ -1,7 +1,8 @@
 # Chat-Room-System
 
 OVERVIEW
-Develop a program to implement a chat room system application that consists of a server and up to four client processes. Every client will connect to the server over a socket connection. A separate thread is created for each connected client. The program is written in Java language that is supported by Eclipse Integrated Development Environment (IDE).
+
+Developed a program to implement a chat room system application that consists of a server and up to four client processes. Every client will connect to the server over a socket connection. A separate thread is created for each connected client. The program is written in Java language that is supported by Eclipse Integrated Development Environment (IDE).
 The program consists of four classes
 
 1.	Server - it implements Runnable interface which executes the erver thread and handles message from the client(s).
