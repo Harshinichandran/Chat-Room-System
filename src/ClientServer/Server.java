@@ -1,11 +1,8 @@
-/*Name: Harshini Chandrasekar
-  ID: 1001586563
- */
 
 /*-------------------References-------------------------------------------------------------------------*/
 /*1. http://pirate.shu.edu/~wachsmut/Teaching/CSAS2214/Virtual/Lectures/chat-client-server.html
 2. http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html
-3. Secure Program with static analysis by Brian Chess & Jacob West- (Page – 319 & 320)
+3. Secure Program with static analysis by Brian Chess & Jacob West- (Page â€“ 319 & 320)
 4. http://www.baeldung.com/java-write-to-file
 5. https://regex101.com/
 6. https://stackoverflow.com/questions/10820033/make-a-simple-timer-in-java/14323134
